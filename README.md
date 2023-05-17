@@ -31,7 +31,7 @@
 * 📸 Instagram: [@graphix.development](https://www.instagram.com/graphix.development/)
 * 🎥 Facebook: [@graphixdev](https://www.facebook.com/graphixdev)
 * 🔗 Linkedin: [@bram-de-boer-53a267240](https://www.linkedin.com/in/bram-de-boer-53a267240/)
-* 💻 Discord: [@Bram#0872](https://discord.graphix-development.nl/)
+* 💻 Discord: [@PieterPost#1983](https://discord.graphix-development.nl/)
 
 ## Contact
 
